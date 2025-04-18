@@ -47,5 +47,5 @@ React UI displays insights
 
 
 ### 🧠 Prediction Output Sample
-![Output Sample](/Images/Screenshot%20(18).png)
+![Output Sample](https://github.com/HashirSaeed01/SuppleMind/blob/main/Images/Screenshot%20(18).png?raw=true)
 
