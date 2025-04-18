@@ -30,20 +30,15 @@ Built using a React frontend and Flask backend, the app fetches subreddit data v
 
 ```plaintext
 User → React Frontend
-        ↓
-    Flask Backend
-        ↓
+           ↓
+     Flask Backend
+           ↓
   Reddit API Fetcher & Parser
-        ↓
-  Keyword Extractor / Sentiment Engine
-        ↓
-      QuadrantDB
-        ↑
-  Smart Query Layer
-        ↑
-    React UI displays insights
-
-
-
-![Model Comparisons](/Images/Screenshot%20(18).png)
-
+           ↓
+Keyword Extractor / Sentiment Engine
+           ↓
+       QuadrantDB
+           ↑
+   Smart Query Layer
+           ↑
+React UI displays insights
