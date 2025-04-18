@@ -44,5 +44,8 @@ Keyword Extractor / Sentiment Engine
 React UI displays insights
 
 
-![Primary Page](/Images/Screenshot%20(18).png)
+
+
+### 🧠 Prediction Output Sample
+![Output Sample](/Images/Screenshot%20(18).png)
 
