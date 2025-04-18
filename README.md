@@ -42,3 +42,7 @@ Keyword Extractor / Sentiment Engine
    Smart Query Layer
            ↑
 React UI displays insights
+
+
+![Primary Page](/Images/Screenshot%20(18).png)
+
