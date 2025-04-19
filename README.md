@@ -47,4 +47,4 @@ React UI displays insights
 
 
 ### 🧠 Prediction Output Sample
-![Screenshot](Images/Screenshot(18).png)
+![Screenshot](Images/Screenshot(18).png.png)
