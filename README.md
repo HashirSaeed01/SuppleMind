@@ -1,3 +1,5 @@
+Works
+
 # 🧠 SuppleMind – Reddit-Powered Supplement Insight Engine
 
 **SuppleMind** is a full-stack application that leverages Reddit data to extract and surface health & supplement-related insights. Users can query health conditions, vitamins, symptoms, or nootropics, and receive intelligent summaries based on real-time Reddit discussions.
